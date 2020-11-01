@@ -1,0 +1,19 @@
+﻿  Main.cpp
+C:\Users\el sokin\source\repos\freeexecbysokin\freeexecbysokin\Main.cpp(24,1): warning C4005: "_CRT_SECURE_NO_WARNINGS": ponowna definicja makra
+C:\Users\el sokin\source\repos\freeexecbysokin\freeexecbysokin\Main.cpp : message : zobacz poprzednią definicję „_CRT_SECURE_NO_WARNINGS”
+C:\Users\el sokin\source\repos\freeexecbysokin\freeexecbysokin\Main.cpp(167,16): warning C4129: "A": nierozpoznany znak sekwencji ucieczki
+C:\Users\el sokin\source\repos\freeexecbysokin\freeexecbysokin\Main.cpp(167,16): warning C4129: "L": nierozpoznany znak sekwencji ucieczki
+C:\Users\el sokin\source\repos\freeexecbysokin\freeexecbysokin\Main.cpp(167,16): warning C4129: "F": nierozpoznany znak sekwencji ucieczki
+C:\Users\el sokin\source\repos\freeexecbysokin\freeexecbysokin\Main.cpp(167,16): warning C4129: " ": nierozpoznany znak sekwencji ucieczki
+C:\Users\el sokin\source\repos\freeexecbysokin\freeexecbysokin\Main.cpp(168,24): warning C4305: "argument": obcięcie z "__int64" do "DWORD"
+C:\Users\el sokin\source\repos\freeexecbysokin\freeexecbysokin\Main.cpp(168,9): warning C4309: "argument": obcięcie stałej wartości
+C:\Users\el sokin\source\repos\freeexecbysokin\freeexecbysokin\Main.cpp(173,27): warning C4305: "argument": obcięcie z "__int64" do "DWORD"
+C:\Users\el sokin\source\repos\freeexecbysokin\freeexecbysokin\Main.cpp(173,9): warning C4309: "argument": obcięcie stałej wartości
+C:\Users\el sokin\source\repos\freeexecbysokin\freeexecbysokin\Main.cpp(192,24): warning C4305: "argument": obcięcie z "__int64" do "DWORD"
+C:\Users\el sokin\source\repos\freeexecbysokin\freeexecbysokin\Main.cpp(192,9): warning C4309: "argument": obcięcie stałej wartości
+  Trwa generowanie kodu
+  1 of 223 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  freeexecbysokin.vcxproj -> C:\Users\el sokin\source\repos\freeexecbysokin\x64\Release\freeexecbysokin.exe
